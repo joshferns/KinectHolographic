@@ -4,7 +4,10 @@ Holographic effect for use with KinecV2 with ms sdk package in Unity3d
 Video -https://www.youtube.com/watch?v=4s51IIjSQsw
 
 Code adapted from - https://en.wikibooks.org/wiki/Cg_Programming/Unity/Projection_for_Virtual_Reality
+
 Kinect v2 with MS-SDK - https://www.assetstore.unity3d.com/en/#!/content/18708
+
+
 Dimples(used in video) - https://www.assetstore.unity3d.com/en/#!/content/19735
 
 **Important before adding file from here to your project  you will have to have the package Kinectv2 with MS-SDK 
