@@ -19,7 +19,7 @@ Dimples(used in video) - https://www.assetstore.unity3d.com/en/#!/content/19735
 otherwise you will end up with errors
 
 
-**edit: if you have an alternate source of headtracking or if you just want to experience the holographic effect by just moving the camera maually/with your own code, then you can use ProjectionMAtrix.cs and folow steps 1. and 2.
+**edit: if you have an alternate source of headtracking or if you just want to experience the holographic effect by just moving the camera maually/with your own code, then you can use ProjectionMatrix.cs and folow steps 1. and 2.
 
 
 1. If you wish to use the script in your own scene, then first setup the scene as you wish,
