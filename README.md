@@ -1,10 +1,11 @@
 # KinectHolographic
 Holographic effect for use with KinecV2 with ms sdk package in Unity3d
 
-Video -https://www.youtube.com/watch?v=4s51IIjSQsw
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=4s51IIjSQsw
 " target="_blank"><img src="http://img.youtube.com/vi/4s51IIjSQsw/0.jpg" 
 alt="Kinect V2 Holographic effect with Head Tracking in Unity3D " width="240" height="180" border="10" /></a>
+
 
 Code adapted from - https://en.wikibooks.org/wiki/Cg_Programming/Unity/Projection_for_Virtual_Reality
 
