@@ -1,0 +1,22 @@
+*.csproj
+*.sln
+Library/
+Temp/
+Assets/_Readme/
+Assets/Standard Assets/
+Assets/Resources/
+Assets/KinectScripts/
+Assets/KinectScripts.meta
+Assets/Plugins-Metro.zip
+Assets/Plugins-Metro.zip.meta
+Assets/Resources.meta
+Assets/Standard Assets.meta
+Assets/_Readme.meta
+Assets/KinectDemos/AvatarsDemo.meta
+Assets/KinectDemos/
+Assets/KinectDemos.meta
+ProjectSettings/
+Assets/KinectHolographicMain.unity
+Assets/KinectHolographicMain.unity.meta
+Assets/Models/
+Assets/Models.meta
